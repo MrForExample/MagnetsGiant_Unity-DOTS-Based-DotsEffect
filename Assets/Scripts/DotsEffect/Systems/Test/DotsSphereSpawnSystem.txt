@@ -1,0 +1,31 @@
+using System.Collections;
+using System.Collections.Generic;
+using Unity.Entities;
+using Unity.Transforms;
+using Unity.Mathematics;
+using UnityEngine;
+
+namespace DotsEffect
+{
+    public partial class DotsSphereSpawnSystem : SystemBase
+    {
+        protected override void OnStartRunning()
+        {
+            EntityQuery dotEntityQuery = EntityManager.CreateEntityQuery(typeof(DotData));
+
+            DotSpawner dotSpawner = SystemAPI.GetSingleton<DotSpawner>();
+
+            while (dotEntityQuery.CalculateEntityCount() < dotSpawner.maxDotsCount)
+            {
+                Entity dot = EntityManager.Instantiate(dotSpawner.dot);
+                float3 nowTargetPosition = UnityEngine.Random.insideUnitSphere;
+                EntityManager.GetAspect<TransformAspect>(dot).Position = nowTargetPosition;
+                EntityManager.GetAspect<DotMovementAspect>(dot).dotData.ValueRW.lastTargetPosition = nowTargetPosition;
+            }
+        }
+        protected override void OnUpdate()
+        {
+            
+        }
+    }
+}

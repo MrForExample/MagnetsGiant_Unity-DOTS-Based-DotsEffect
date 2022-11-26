@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: 81e4191bebbffee49a87679d87cdc04e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2427984867767725548
+    second: FeelDuckSmoke_0
+  - first:
+      213: 2896212189738133339
+    second: FeelDuckSmoke_1
+  - first:
+      213: -1357937031840254804
+    second: FeelDuckSmoke_2
+  - first:
+      213: -1592531358028221409
+    second: FeelDuckSmoke_3
+  - first:
+      213: 4401256072393347978
+    second: FeelDuckSmoke_4
+  - first:
+      213: -1333265592870385256
+    second: FeelDuckSmoke_5
+  - first:
+      213: 7293580034083901732
+    second: FeelDuckSmoke_6
+  - first:
+      213: -3451332558476170371
+    second: FeelDuckSmoke_7
+  - first:
+      213: 6653508582940395624
+    second: FeelDuckSmoke_8
+  - first:
+      213: -3037358365749580077
+    second: FeelDuckSmoke_9
+  - first:
+      213: -7848167484925607332
+    second: FeelDuckSmoke_10
+  - first:
+      213: -8993410246545293969
+    second: FeelDuckSmoke_11
+  - first:
+      213: 8380984710832089325
+    second: FeelDuckSmoke_12
+  - first:
+      213: 1138717180085754258
+    second: FeelDuckSmoke_13
+  - first:
+      213: 7046414905678590848
+    second: FeelDuckSmoke_14
+  - first:
+      213: 4389312645652651473
+    second: FeelDuckSmoke_15
+  - first:
+      213: -8449059397852136596
+    second: FeelDuckSmoke_16
+  - first:
+      213: -8759170264611092390
+    second: FeelDuckSmoke_17
+  - first:
+      213: -6254019147711556217
+    second: FeelDuckSmoke_18
+  - first:
+      213: 3919491968672881462
+    second: FeelDuckSmoke_19
+  - first:
+      213: 1963652864535943362
+    second: FeelDuckSmoke_20
+  - first:
+      213: -1253453784014035192
+    second: FeelDuckSmoke_21
+  - first:
+      213: -923104468600845067
+    second: FeelDuckSmoke_22
+  - first:
+      213: -8077999480822286006
+    second: FeelDuckSmoke_23
+  - first:
+      213: -527851490320721120
+    second: FeelDuckSmoke_24
+  - first:
+      213: -6499754216691264191
+    second: FeelDuckSmoke_25
+  - first:
+      213: 9048100457707826247
+    second: FeelDuckSmoke_26
+  - first:
+      213: 6499297482333762980
+    second: FeelDuckSmoke_27
+  - first:
+      213: 6483254277834981481
+    second: FeelDuckSmoke_28
+  - first:
+      213: 9116976778795223131
+    second: FeelDuckSmoke_29
+  - first:
+      213: 2324179930946653436
+    second: FeelDuckSmoke_30
+  - first:
+      213: 1742745032632275373
+    second: FeelDuckSmoke_31
+  - first:
+      213: 942406567260815436
+    second: FeelDuckSmoke_32
+  - first:
+      213: -4494322562948810922
+    second: FeelDuckSmoke_33
+  - first:
+      213: -2998933635349288208
+    second: FeelDuckSmoke_34
+  - first:
+      213: -8237656247504995078
+    second: FeelDuckSmoke_35
+  - first:
+      213: 2504449621035583
+    second: FeelDuckSmoke_0
+  - first:
+      213: -7931904439948636316
+    second: FeelDuckSmoke_1
+  - first:
+      213: 1647121955755081789
+    second: FeelDuckSmoke_2
+  - first:
+      213: 8130350719589456588
+    second: FeelDuckSmoke_3
+  - first:
+      213: 588024655082357993
+    second: FeelDuckSmoke_4
+  - first:
+      213: 5487159787059967615
+    second: FeelDuckSmoke_5
+  - first:
+      213: -676758088168967796
+    second: FeelDuckSmoke_6
+  - first:
+      213: 4984435850738861413
+    second: FeelDuckSmoke_7
+  - first:
+      213: -6477065539939699987
+    second: FeelDuckSmoke_8
+  - first:
+      213: -8642211699604113195
+    second: FeelDuckSmoke_9
+  - first:
+      213: -3784502952940389130
+    second: FeelDuckSmoke_10
+  - first:
+      213: -6837060274678197150
+    second: FeelDuckSmoke_11
+  - first:
+      213: -8316239522534425986
+    second: FeelDuckSmoke_12
+  - first:
+      213: 573189835275343553
+    second: FeelDuckSmoke_13
+  - first:
+      213: -662683277140887359
+    second: FeelDuckSmoke_14
+  - first:
+      213: 7046109047960679679
+    second: FeelDuckSmoke_15
+  - first:
+      213: 3163241829592336917
+    second: FeelDuckSmoke_16
+  - first:
+      213: -2962313755937083009
+    second: FeelDuckSmoke_17
+  - first:
+      213: 1035102379971084787
+    second: FeelDuckSmoke_18
+  - first:
+      213: 321421563137378391
+    second: FeelDuckSmoke_19
+  - first:
+      213: 6822521645089646477
+    second: FeelDuckSmoke_20
+  - first:
+      213: 622922370483138574
+    second: FeelDuckSmoke_21
+  - first:
+      213: 3418156585126254463
+    second: FeelDuckSmoke_22
+  - first:
+      213: -1653832395018183930
+    second: FeelDuckSmoke_23
+  - first:
+      213: -3647434131282639419
+    second: FeelDuckSmoke_24
+  - first:
+      213: -1040366452165113699
+    second: FeelDuckSmoke_25
+  - first:
+      213: -3192249966748626209
+    second: FeelDuckSmoke_26
+  - first:
+      213: 41901951014505187
+    second: FeelDuckSmoke_27
+  - first:
+      213: -4002079136166045773
+    second: FeelDuckSmoke_28
+  - first:
+      213: -5754853035727490405
+    second: FeelDuckSmoke_29
+  - first:
+      213: -8792316848381333903
+    second: FeelDuckSmoke_30
+  - first:
+      213: -195287860126066308
+    second: FeelDuckSmoke_31
+  - first:
+      213: -1648419910022610347
+    second: FeelDuckSmoke_32
+  - first:
+      213: 3084197713969989767
+    second: FeelDuckSmoke_33
+  - first:
+      213: 4910991670501963501
+    second: FeelDuckSmoke_34
+  - first:
+      213: 2677704571331994214
+    second: FeelDuckSmoke_35
+  - first:
+      213: -5499634796404681808
+    second: FeelDuckSmoke_36
+  - first:
+      213: -3850741006856027735
+    second: FeelDuckSmoke_37
+  - first:
+      213: -2847260186865400224
+    second: FeelDuckSmoke_38
+  - first:
+      213: -187933835039995366
+    second: FeelDuckSmoke_39
+  - first:
+      213: 7106259979379575844
+    second: FeelDuckSmoke_40
+  - first:
+      213: -3513129484872029128
+    second: FeelDuckSmoke_41
+  - first:
+      213: -5985178694935233124
+    second: FeelDuckSmoke_42
+  - first:
+      213: 2754383825636854199
+    second: FeelDuckSmoke_43
+  - first:
+      213: 571800556104604513
+    second: FeelDuckSmoke_44
+  - first:
+      213: 2001949348889247435
+    second: FeelDuckSmoke_45
+  - first:
+      213: -7475038606818657321
+    second: FeelDuckSmoke_46
+  - first:
+      213: 3216016965543989142
+    second: FeelDuckSmoke_47
+  - first:
+      213: 2916989849828552022
+    second: FeelDuckSmoke_48
+  - first:
+      213: 1859423257465082104
+    second: FeelDuckSmoke_49
+  - first:
+      213: -3190724983796580232
+    second: FeelDuckSmoke_50
+  - first:
+      213: 3971991809147571245
+    second: FeelDuckSmoke_51
+  - first:
+      213: 2466439744228515297
+    second: FeelDuckSmoke_52
+  - first:
+      213: -8388147893068403078
+    second: FeelDuckSmoke_53
+  - first:
+      213: -4244825004638799996
+    second: FeelDuckSmoke_54
+  - first:
+      213: 6097674650150031559
+    second: FeelDuckSmoke_55
+  - first:
+      213: -2562122200981578033
+    second: FeelDuckSmoke_56
+  - first:
+      213: 2759861876498234367
+    second: FeelDuckSmoke_57
+  - first:
+      213: -8601334820376274203
+    second: FeelDuckSmoke_58
+  - first:
+      213: -4391083907484558470
+    second: FeelDuckSmoke_59
+  - first:
+      213: 7925525076084790308
+    second: FeelDuckSmoke_60
+  - first:
+      213: 6802528979033199671
+    second: FeelDuckSmoke_61
+  - first:
+      213: 8563539600871693704
+    second: FeelDuckSmoke_62
+  - first:
+      213: 3862321540346919239
+    second: FeelDuckSmoke_63
+  - first:
+      213: 5057831149000178781
+    second: FeelDuckSmoke_64
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FeelDuckSmoke_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a050e98c5e80000800000000000000
+      internalID: 2427984867767725548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 347
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f8488dfe63ce190800000000000000
+      internalID: 2896212189738133339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 347
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30478221b0cbd610800000000000000
+      internalID: -1357937031840254804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 347
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca987c27eec4d070800000000000000
+      internalID: -1592531358028221409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 347
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e40b5dee45192800800000000000000
+      internalID: 4401256072393347978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 347
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76748d01ce462c40800000000000000
+      internalID: -1333265592870385256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 347
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81f0dbba1cab96f0800000000000000
+      internalID: 7293580034083901732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 347
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56503016ff54c2540800000000000000
+      internalID: -3451332558476170371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de278f85537dc16a0800000000000000
+      internalID: 6653508582940395624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 310
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d83f536f32b01880800000000000000
+      internalID: -3037358365749580077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 310
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc329e8d9eba7bc0800000000000000
+      internalID: -7848167484925607332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 310
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2641fdb87e1ed11a0800000000000000
+      internalID: -8993410246545293969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 310
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a75403738c69c80800000000000000
+      internalID: 8380984710832089325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 310
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c693784e1164f700800000000000000
+      internalID: 1138717180085754258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 310
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8fc6b021dadc6f0800000000000000
+      internalID: 7046414905678590848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 310
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4bc54e8dec8c160800000000000000
+      internalID: 4389312645652651473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a02873fa716eb20800000000000000
+      internalID: -8449059397852136596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 273
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71fd10855fb3e6d0800000000000000
+      internalID: -8759170264611092390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 273
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f18650612c6d5e00800000000000000
+      internalID: -6254019147711556217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 273
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75844fd653be57400800000000000000
+      internalID: 3919491968672881462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 273
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d876bf7f9477eae50800000000000000
+      internalID: 1963652864535943362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 273
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00ba47789015a800800000000000000
+      internalID: -1253453784014035192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 273
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77dc13dd4bbf6f20800000000000000
+      internalID: -923104468600845067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 273
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b58e8f2386c09e0800000000000000
+      internalID: -8077999480822286006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c543478bf5b16dc0800000000000000
+      internalID: -527851490320721120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 236
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98077e4930ef81f0800000000000000
+      internalID: -6499754216691264191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 236
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd212b98199d2b3d0800000000000000
+      internalID: 9048100457707826247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 236
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea8d993a9dd49000800000000000000
+      internalID: 6499297482333762980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 236
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b712d5ca32c578c0800000000000000
+      internalID: 6483254277834981481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 236
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9272ee87a7a220b0800000000000000
+      internalID: 9116976778795223131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 236
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e6c8bf86a6bf580800000000000000
+      internalID: 2324179930946653436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 236
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795d34d9b23a4df0800000000000000
+      internalID: 1742745032632275373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552cb6653d2af19e0800000000000000
+      internalID: 942406567260815436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788c046ea754dca20800000000000000
+      internalID: -4494322562948810922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6fb2f97e8572440800000000000000
+      internalID: -2998933635349288208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662eeabde1e192520800000000000000
+      internalID: -8237656247504995078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 199
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3dbed7a4f5da3b0800000000000000
+      internalID: -5499634796404681808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 199
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a10154d47b6f8ac0800000000000000
+      internalID: -3850741006856027735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 199
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06686ca02ff7c78d0800000000000000
+      internalID: -2847260186865400224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 199
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a0a293c23546df0800000000000000
+      internalID: -187933835039995366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c8e78fcc18e9260800000000000000
+      internalID: 7106259979379575844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c604cc85bde3fc0800000000000000
+      internalID: -3513129484872029128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 162
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d362310bf50fca0800000000000000
+      internalID: -5985178694935233124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 162
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b98a2efe79893620800000000000000
+      internalID: 2754383825636854199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 162
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5cf483917fe700800000000000000
+      internalID: 571800556104604513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 162
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce3ed6735a58cb10800000000000000
+      internalID: 2001949348889247435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 162
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db3e36ddf3534890800000000000000
+      internalID: -7475038606818657321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 162
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f01e6146691ac20800000000000000
+      internalID: 3216016965543989142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d637440da3b7820800000000000000
+      internalID: 2916989849828552022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 125
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f05e4cd99ffdc910800000000000000
+      internalID: 1859423257465082104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 125
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87047dc488448b3d0800000000000000
+      internalID: -3190724983796580232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 125
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c800381895f1730800000000000000
+      internalID: 3971991809147571245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 125
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed55ae21ed8a3220800000000000000
+      internalID: 2466439744228515297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 125
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e673efeef479b80800000000000000
+      internalID: -8388147893068403078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 125
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487fec8f52a5715c0800000000000000
+      internalID: -4244825004638799996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 125
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0d81699ca4f9450800000000000000
+      internalID: 6097674650150031559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeelDuckSmoke_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fced953de63817cd0800000000000000
+      internalID: -2562122200981578033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ab71deb4245d608479e6dfb7a4b172c1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FeelDuckSmoke_15: 4389312645652651473
+      FeelDuckSmoke_7: -3451332558476170371
+      FeelDuckSmoke_16: -8449059397852136596
+      FeelDuckSmoke_54: -4244825004638799996
+      FeelDuckSmoke_9: -3037358365749580077
+      FeelDuckSmoke_53: -8388147893068403078
+      FeelDuckSmoke_12: 8380984710832089325
+      FeelDuckSmoke_25: -6499754216691264191
+      FeelDuckSmoke_19: 3919491968672881462
+      FeelDuckSmoke_29: 9116976778795223131
+      FeelDuckSmoke_3: -1592531358028221409
+      FeelDuckSmoke_50: -3190724983796580232
+      FeelDuckSmoke_28: 6483254277834981481
+      FeelDuckSmoke_1: 2896212189738133339
+      FeelDuckSmoke_23: -8077999480822286006
+      FeelDuckSmoke_26: 9048100457707826247
+      FeelDuckSmoke_31: 1742745032632275373
+      FeelDuckSmoke_8: 6653508582940395624
+      FeelDuckSmoke_2: -1357937031840254804
+      FeelDuckSmoke_4: 4401256072393347978
+      FeelDuckSmoke_13: 1138717180085754258
+      FeelDuckSmoke_42: -5985178694935233124
+      FeelDuckSmoke_40: 7106259979379575844
+      FeelDuckSmoke_20: 1963652864535943362
+      FeelDuckSmoke_18: -6254019147711556217
+      FeelDuckSmoke_41: -3513129484872029128
+      FeelDuckSmoke_35: -8237656247504995078
+      FeelDuckSmoke_44: 571800556104604513
+      FeelDuckSmoke_39: -187933835039995366
+      FeelDuckSmoke_17: -8759170264611092390
+      FeelDuckSmoke_27: 6499297482333762980
+      FeelDuckSmoke_38: -2847260186865400224
+      FeelDuckSmoke_22: -923104468600845067
+      FeelDuckSmoke_10: -7848167484925607332
+      FeelDuckSmoke_14: 7046414905678590848
+      FeelDuckSmoke_11: -8993410246545293969
+      FeelDuckSmoke_24: -527851490320721120
+      FeelDuckSmoke_36: -5499634796404681808
+      FeelDuckSmoke_43: 2754383825636854199
+      FeelDuckSmoke_0: 2427984867767725548
+      FeelDuckSmoke_51: 3971991809147571245
+      FeelDuckSmoke_6: 7293580034083901732
+      FeelDuckSmoke_52: 2466439744228515297
+      FeelDuckSmoke_56: -2562122200981578033
+      FeelDuckSmoke_47: 3216016965543989142
+      FeelDuckSmoke_48: 2916989849828552022
+      FeelDuckSmoke_21: -1253453784014035192
+      FeelDuckSmoke_37: -3850741006856027735
+      FeelDuckSmoke_46: -7475038606818657321
+      FeelDuckSmoke_5: -1333265592870385256
+      FeelDuckSmoke_45: 2001949348889247435
+      FeelDuckSmoke_32: 942406567260815436
+      FeelDuckSmoke_49: 1859423257465082104
+      FeelDuckSmoke_30: 2324179930946653436
+      FeelDuckSmoke_33: -4494322562948810922
+      FeelDuckSmoke_34: -2998933635349288208
+      FeelDuckSmoke_55: 6097674650150031559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
