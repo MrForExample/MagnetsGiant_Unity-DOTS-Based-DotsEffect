@@ -8,8 +8,11 @@
 ![Teleport](Shows/Teleport.gif)
 ![Explode](Shows/Explode.gif)
 
-This project using Unity 2022.2.0b16 & ECS package v1.0 to realize the unique visual experience of the boss battle scene. <br>
-*Due to the high quantity of simulated particles in this project, it would not have been possible without ECS*.
+This is a showcase project that I spent a week of my free time creating! Using Unity 2022.2.0b16 & ECS package v1.0 to realize the unique visual experience of the boss battle scene. <br>
+
+Note:
+- *Due to the high quantity of simulated particles in this project, it would not have been possible without ECS*.
+- *For some unknow error, this project Cannot be built by Unity 2022.2.0b16 with windows 10 + il2cpp, so all the videos are recored inside the unity editor playmode.*
 
 **Overall the system works as follow:**
 1. Voxelize given skinned mesh to small dark cubes, i.e dots.<br>(In the video, the dots count are 150,000+, where 142,667 dots driven by ECS, others created by using unity particle system)
