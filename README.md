@@ -1,7 +1,7 @@
 # MagnetsGiant_Unity-DOTS-Based-DotsEffect
 ## Overview
 
-### A giant boss made of magnets that can't be destoryed!!!
+### The Magnets Giant that cannot be destroyed!!!
 
 ![BeenHit](Shows/BeenHit.gif)
 ![Smash](Shows/Smash.gif)
