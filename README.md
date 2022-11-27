@@ -2,7 +2,7 @@
 ## Overview
 
 ### The Magnets Giant that cannot be destroyed!!!
-## [Video link to Reddit](https://www.reddit.com/r/Unity3D/comments/z5zglg/magnets_giant_unity_dots_based_dotseffect/)
+## [Video link to Reddit](https://www.reddit.com/r/Unity3D/comments/z5zete/magnets_giant_unity_dots_based_dotseffect/)
 
 ![BeenHit](Shows/BeenHit.gif)
 ![Smash](Shows/Smash.gif)
