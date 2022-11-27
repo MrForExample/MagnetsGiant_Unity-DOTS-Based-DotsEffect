@@ -13159,6 +13159,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LiteFPSCounter
       objectReference: {fileID: 0}
+    - target: {fileID: 1813224598300294, guid: 95354847711d363408aebd57a0dc92ae, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4679105028047868, guid: 95354847711d363408aebd57a0dc92ae, type: 3}
       propertyPath: m_RootOrder
       value: 8

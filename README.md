@@ -1,31 +1,48 @@
 # MagnetsGiant_Unity-DOTS-Based-DotsEffect
+## Overview
+
 ### A giant boss made of magnets that can't be destoryed!!!
-This project using Unity 2022.2.0b16 & ECS package v1.0 to realize the unique visual effect of the boss battle scene.
+
+![BeenHit](Shows/BeenHit.gif)
+![Smash](Shows/Smash.gif)
+![Teleport](Shows/Teleport.gif)
+![Explode](Shows/Explode.gif)
+
+This project using Unity 2022.2.0b16 & ECS package v1.0 to realize the unique visual experience of the boss battle scene. <br>
+*Due to the high quantity of simulated particles in this project, it would not have been possible without ECS*.
 
 **Overall the system works as follow:**
-1. Voxelize given skinned mesh to small dark cubes, i.e dots.
+1. Voxelize given skinned mesh to small dark cubes, i.e dots.<br>(In the video, the dots count are 150,000+, where 142,667 dots driven by ECS, others created by using unity particle system)
 
-2. Calculate the data needed for each dot, e.g Assigin each dot to closest bone (Not by parenting but calculate local to world matrix, since we need control each dot precisely, due to the update order in Job System parenting is not suitable in our case).
+2. Calculate the data needed for each dot, e.g Assigin each dot to closest bone. <br>
+(Not by parenting but calculate local to world matrix, since we need control each dot precisely, due to the update order in Job System parenting is not suitable in our case)
 
 3. Initialize all systems:
-    - Bullet entity system.
+    - [Initialize dot and bone entities](Assets/Scripts/DotsEffect/Systems/DotsMeshSpawnSystem.cs)
 
-    - Bone entity system (Copied from skeleton of the skinned mesh to ECS Scene).
+    - [Initialize bullet entities](Assets/Scripts/DotsEffect/Systems/BulletsSpawnSystem.cs)
 
-    - Dot entity system.
+    - [Bullet entity system](Assets/Scripts/DotsEffect/Components/Bullet/)
 
-    - Bullet shooter (MonoBehaviour).
+    - [Bone entity system](Assets/Scripts/DotsEffect/Components/Ghost/) (Copied from skeleton of the skinned mesh to ECS Scene)
 
-    - Boss(Ghost) controller (MonoBehaviour).
+    - [Dot entity system](Assets/Scripts/DotsEffect/Components/Dot/)
 
-4. Run update in parallel through Unity Job System:
+    - [Bullet shooter](Assets/Scripts/DotsEffect/Components/Bullet/BulletShooter.cs) (MonoBehaviour)
+
+    - [Boss(Ghost) controller](Assets/Scripts/DotsEffect/Components/Ghost/GhostController.cs) (MonoBehaviour)
+
+4. In the [core update system](Assets\Scripts\DotsEffect\Systems\DotsEffectSystem.cs), we run updates in parallel through the Unity Job System:
     1. Update bullet entities movement.
     
     2. Update bone entities movement by copy the transform from the original Skeletal Animation, and calculate local to world matrix for assigned dots.
 
     3. Update dot entities movement: 
 
-        - follow the bone entities local transform -> been hit fly away -> wait for a while -> bcak to follow the bone entities local transform.
+        - Follow the bone entities local transform -> <br>
+        been hit fly away -> <br>
+        wait for a while -> <br>
+        bcak to follow the bone entities local transform.
 
 5. Other visual & sound effects triggered by event, e.g begin to attack and foot land on ground.
 
